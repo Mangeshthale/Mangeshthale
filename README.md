@@ -2,7 +2,7 @@
 
 **Computer Science Undergraduate passionate about Artificial Intelligence and Machine Learning | Exploring the intersection of technology and innovation.**
 
-🎓 **IIIT Nagpur** — B.Tech in Computer Science & Engineering (Artificial Intelligence and Machine Learning) | **2023 – 2027**
+🎓 **IIIT Nagpur** — B.Tech in Computer Science & Engineering (AI/ML) | **2023 – 2027**
 
 📫 **How to reach me:** [mthale1308@gmail.com](mailto:mthale1308@gmail.com)
 
